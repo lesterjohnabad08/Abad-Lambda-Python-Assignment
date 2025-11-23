@@ -1,0 +1,1 @@
+Upload the abad_lambda_function_deployment_package.zip to lambda function
